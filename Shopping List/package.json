@@ -1,0 +1,21 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "consolidate": "^0.14.5",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "html": "^1.0.0",
+    "mongoose": "^4.9.8",
+    "mustache": "^2.3.0"
+  }
+}
